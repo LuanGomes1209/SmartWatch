@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body {
+    background-attachment: fixed;
+    background-image: linear-gradient(to bottom, #0000ff, #00fff7, #2a8c0b);
+}
+h1 {
+    font-size: 4em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    font-size: 3em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
